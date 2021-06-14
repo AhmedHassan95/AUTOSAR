@@ -1,4 +1,4 @@
-# AUTOSARRepository For AUTOSAR Projects
+#Repository For AUTOSAR Projects
 All these projects are implemented using:
 
 - MCU: TM4C123GH6PM (Tiva C LaunchPad)
