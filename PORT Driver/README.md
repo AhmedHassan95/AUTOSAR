@@ -50,6 +50,7 @@ This Project is to Toggle LED output using Button as an input
 
 8. Dio_Regs.h: Contains DIO registers of our target (TM4C123GH6PM)
 9. Dio_Cfg.h: Contains pre-compile configurations generated from the AUTOSAR tool
+
 	      ex: Numbers of the configured Dio Channels
 	      ex: Turn (ON/OFF) the development ERROR
               ex: Turn (ON/OFF) the FlipChannels API 			  
