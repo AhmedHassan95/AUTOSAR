@@ -83,8 +83,9 @@ This Project is to Toggle LED output using Button as an input
 21. Led.h, Led.c: Contains Led functions code
 22. App.h, App.c: Contains Application Tasks (init Task, Button Task, Led Task, ...)
 
+---------------------------------------------------------------------------------------------	
+
  ### HEADERS FILES STRUCTURE                                 
- 
 
 - Click on the image to open it
 
