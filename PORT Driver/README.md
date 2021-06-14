@@ -86,7 +86,7 @@ This Project is to Toggle LED output using Button as an input
  ### HEADERS FILES STRUCTURE                                 
  
 
-- Open the image
+- Click on the image to open it
 
 IMAGE: 
 ![alt text][logo]
