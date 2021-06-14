@@ -1,10 +1,10 @@
-##AUTOSAR PORT DRIVER                                     
+## AUTOSAR PORT DRIVER                                     
 
  
   [AUTHOR]: Ahmed Hassan
  
 
-##PRE-REQUEST                                         
+## PRE-REQUEST                                         
 
  
 Before Read any file in this Driver, You must:
@@ -36,7 +36,7 @@ This Project is to Toggle LED output using Button as an input
     - Bulid Application contains System Logic
 
 
- #USEFUL NOTES                                       
+ # USEFUL NOTES                                       
 
 1. Vendor IDs: Used to determine which vendor developed the Driver/Module
 2. Std_Types.h: Contains standard symbols + standard return types + version Info. structure
@@ -86,7 +86,7 @@ This Project is to Toggle LED output using Button as an input
 21. Led.h, Led.c: Contains Led functions code
 22. App.h, App.c: Contains Application Tasks (init Task, Button Task, Led Task, ...)
 
- #HEADERS FILES STRUCTURE                                 
+ # HEADERS FILES STRUCTURE                                 
  
 
 - Open the sent image
