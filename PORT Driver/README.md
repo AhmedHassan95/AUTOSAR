@@ -1,9 +1,6 @@
 ## AUTOSAR PORT DRIVER                                     
  
-  [AUTHOR]: Ahmed Hassan(space, space, Enter)
-
-
-<u>underlined text</u>
+  [AUTHOR]: Ahmed Hassan\
 
 
 
