@@ -7,4 +7,4 @@ All these projects are implemented using:
 
 Before Read any file in any Driver, You must:
 
-- Have All AUTOSAR Standard Documents (SWS) version 4.0.3
+- Have All AUTOSAR Standard Documents (SWS) version 4. 0 .3
