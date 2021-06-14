@@ -2,7 +2,7 @@
  
   [AUTHOR]: Ahmed Hassan
 
-### PRE-REQUEST                                         
+### PRE-REQUESTS:                                         
 
 Before Read any file in this Driver, You must:
 - Have All AUTOSAR Standard Documents (SWS) version 4.0.3
@@ -13,7 +13,7 @@ For Each file:
 - May or not Check the Module SW version 
 
 
- ### PROJECT DESCRIPTION                                     
+ ### PROJECT DESCRIPTION:                                     
 
  
 This Project is to Toggle LED output using Button as an input
@@ -33,7 +33,7 @@ This Project is to Toggle LED output using Button as an input
     - Bulid Application contains System Logic
 
 
- ### USEFUL NOTES                                       
+ ### USEFUL NOTES:                                       
 
 1. Vendor IDs: Used to determine which vendor developed the Driver/Module
 2. Std_Types.h: Contains standard symbols + standard return types + version Info. structure
@@ -85,7 +85,7 @@ This Project is to Toggle LED output using Button as an input
 
 ---------------------------------------------------------------------------------------------	
 
- ### HEADERS FILES STRUCTURE                                 
+ ### HEADERS FILES STRUCTURE:                                 
 
 - Click on the image to open it
 
