@@ -14,7 +14,7 @@ For Each file:
 - May or not Check the Module SW version 
 
 
- ### PROJECT DESCRIPTION:                                     
+ ### <ins> PROJECT DESCRIPTION </ins>:                                     
 
  
 This Project is to Toggle LED output using Button as an input
@@ -32,9 +32,9 @@ This Project is to Toggle LED output using Button as an input
     - Bulid ECUAL contains LED and BUTTON drivers
     - Bulid Services layer contains Scheduler
     - Bulid Application contains System Logic
-<ins> text </ins>
 
- ### USEFUL NOTES:                                       
+
+ ### <ins> USEFUL NOTES </ins>:                                       
 
 1. Vendor IDs: Used to determine which vendor developed the Driver/Module
 2. Std_Types.h: Contains standard symbols + standard return types + version Info. structure
@@ -81,9 +81,9 @@ This Project is to Toggle LED output using Button as an input
 22. App.h, App.c: Contains Application Tasks (init Task, Button Task, Led Task, ...)
 
 ---------------------------------------------------------------------------------------------	
-<br>
 
-### HEADERS FILES STRUCTURE:                                 
+
+### <ins> HEADERS FILES STRUCTURE </ins>:                                 
 
 - Click on the image to open it
 
