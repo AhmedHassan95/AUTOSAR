@@ -1,6 +1,6 @@
 ## AUTOSAR PORT DRIVER                                     
  
-  [AUTHOR]: Ahmed Hassan
+  [AUTHOR]: Ahmed_Hassan
 
 
 
@@ -39,7 +39,7 @@ This Project is to Toggle LED output using Button as an input
 
 
  ### USEFUL NOTES:                                       
-#
+
 1. Vendor IDs: Used to determine which vendor developed the Driver/Module
 2. Std_Types.h: Contains standard symbols + standard return types + version Info. structure
                 ex: OK, NOT_OK			
