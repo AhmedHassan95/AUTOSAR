@@ -1,11 +1,11 @@
 /********************************************************************************************
- *                             		AUTOSAR PORT DRIVER                                 *
+                              		AUTOSAR PORT DRIVER                                 
  ********************************************************************************************/
  
   [AUTHOR]: Ahmed Hassan
  
 /********************************************************************************************
- *                             			PRE-REQUEST                                 *
+                              			PRE-REQUEST                                
  ********************************************************************************************/
  
 Before Read any file in this Driver, You must:
@@ -17,7 +17,7 @@ For Each file:
 - May or not Check the Module SW version 
 
 /********************************************************************************************
- *                              	PROJECT DESCRIPTION                                     *
+                               	PROJECT DESCRIPTION                                     
  ********************************************************************************************
  
 This Project is to Toggle LED output using Button as an input
@@ -28,9 +28,9 @@ This Project is to Toggle LED output using Button as an input
     - LED output needs to be refreshed every 40 ms
 				 
     Design Considerations:
-	- All Drivers compatible with Autosar Standard version 4.0.3
-	- MCU: TM4C123GH6PM (Tiva C LaunchPad)
-	- Frequency: 16 MHZ
+    - All Drivers compatible with Autosar Standard version 4.0.3
+    - MCU: TM4C123GH6PM (Tiva C LaunchPad)
+    - Frequency: 16 MHZ
     - Bulid MCAL contains DIO and TIMER drivers
     - Bulid ECUAL contains LED and BUTTON drivers
     - Bulid Services layer contains Scheduler
