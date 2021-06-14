@@ -37,12 +37,12 @@ This Project is to Toggle LED output using Button as an input
 
 1. Vendor IDs: Used to determine which vendor developed the Driver/Module
 2. Std_Types.h: Contains standard symbols + standard return types + version Info. structure
-		ex: OK, NOT_OK			
-3. platform_Types.h: Contains CPU type and endianess + Optimized types + target dependant 
-		     type definitions  ex: uint8, uint16, ...							 
+                ex: OK, NOT_OK			
+4. platform_Types.h: Contains CPU type and endianess + Optimized types + target dependant 
+		     type definitions   ex: uint8, uint16, ...							 
 4. compiler.h: Contains compiler dependant words to make our driver abstracted from any compiler
 	       ex: inline, static			   
-5. common_Macros.h: Contains common macros used between all files ex: SET_BIT, CLEAR_BIT, ...
+5. common_Macros.h: Contains common macros used between all files  ex: SET_BIT, CLEAR_BIT, ...
 6. tm4c123gh6pm_registers.h: Contains all registers of our target (TM4C123GH6PM)
 7. Det.h, Det.c: Contains All we need to report development Error 
 
@@ -62,9 +62,7 @@ This Project is to Toggle LED output using Button as an input
 
 13. Port_Regs.h: Contains PORT registers of our target (TM4C123GH6PM)	
 14. Port_Cfg.h: Contains pre-compile configurations generated from the AUTOSAR tool
-	        ex: Numbers of the configured PINs in each PORT
-		ex: Turn (ON/OFF) the development ERROR
-	        ex: Turn (ON/OFF) the PORT_SET_PIN_MODE_API 			  
+	        ex: Numbers of the configured PINs in each PORT			  
 15. Port_PBcfg.h: Contains post build configurations 
 		  ex: Filled structure with the configured information used by Port_Init API		
 16. Port.h: Contains API Service IDs + DET Error Codes for PORT Driver + PORT Data Types +
